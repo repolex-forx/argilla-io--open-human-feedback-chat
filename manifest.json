@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "argilla-io",
+  "repo": "open-human-feedback-chat",
+  "versions": [
+    {
+      "commit": "d8dddd15df0f5cb43cedfe39e72b4006f52b2020",
+      "parsed_at": "2026-11-08T02:15:35.310833+00:00",
+      "filetree": "filetree/d8dddd15df0f5cb43cedfe39e72b4006f52b2020.nq.gz",
+      "blobs": [
+        "blob/2cea24e40be0e9dd1a8c95c43570c3a76ddeade8.nq.gz",
+        "blob/752c6b72b333dc240e0ecc45037bdbabdb622920.nq.gz",
+        "blob/d4cf7c5e2a64c23663cc252c8faf52efc2dd0660.nq.gz",
+        "blob/2c0733315e415bfb5e5b353f9996ecd964d395b2.nq.gz",
+        "blob/2e4712a6b2566466a9ee1d2609a766ac8388c266.nq.gz",
+        "blob/306eac492390928bedb7a6671bf310531cd31166.nq.gz",
+        "blob/77f208ac1054fab4393ec0786ac86b509134ff83.nq.gz",
+        "blob/6ca0a4d39376cc2aaa813678a5de0cbcf4e8b052.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
