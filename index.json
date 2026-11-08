@@ -1,0 +1,11 @@
+{
+  "org": "argilla-io",
+  "repo": "open-human-feedback-chat",
+  "versions": [
+    {
+      "commit": "d8dddd15df0f5cb43cedfe39e72b4006f52b2020",
+      "tag": "",
+      "parsed_at": "2026-11-08T02:17:39.073551+00:00"
+    }
+  ]
+}
