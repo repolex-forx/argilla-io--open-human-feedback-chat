@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/argilla-io/open-human-feedback-chat/commit/d8dddd15df0f5cb43cedfe39e72b4006f52b2020",
       "git:hexsha": "d8dddd15df0f5cb43cedfe39e72b4006f52b2020",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
